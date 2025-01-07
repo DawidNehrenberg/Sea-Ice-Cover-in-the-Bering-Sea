@@ -88,7 +88,7 @@ This assignment has used generative AI in the form of chatGPT-4o and Github Copi
 
 #If this doesnt work a presaved option of the data has been provided in Data/Backup
 
-url <- "https://raw.githubusercontent.com/DawidNehrenberg/SOES3056_Assignment_1/main/Data/Bering_Strait_Sea_Ice_Cover.csv"
+url <- "https://github.com/DawidNehrenberg/Sea-Ice-Cover-in-the-Bering-Sea/blob/a6436f90073c8d5d3229cd82bf0eedea90b8e266/Data/Bering_Strait_Sea_Ice_Cover.csv"
 
 # Destination file path
 destfile <- "Data\\Bering_Strait_Sea_Ice_Cover.csv"
