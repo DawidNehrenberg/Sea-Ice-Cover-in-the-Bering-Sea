@@ -9,7 +9,7 @@ The github repository for this in case anything breaks can be found at:
 </p>
 
 <p>
-https://github.com/DawidNehrenberg/SOES3056_Assignment_1.git
+https://github.com/DawidNehrenberg/Sea-Ice-Cover-in-the-Bering-Sea
 </p>
 
 <p>
